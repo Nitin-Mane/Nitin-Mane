@@ -1,12 +1,11 @@
 # Hey 👋, This is Nitin Mane
 ### About me 🤓
-Experienced Ambassador with a demonstrated history of working in the non-profit organization management industry. Skilled in Technical Work, Programming, Public Speaking, Computing, and Active Directory. Strong community and social services professional with a Bachelor of Technology (B.Tech.) focused in Electronics and Telecommunication from Maharashtra Institute of Technology, Aurangabad. 
+An enthusiastic, experienced engineer with highly motivated and leadership skills with a Bachelor of Technology degree in Electronics and Telecommunication Engineering and
+working on multidisciplinary steam in the research field for industrial and commercial services in the startup company. Expert in implementing each step of projects and DevOps for more than two years’ workflow. Eager to learn new technologies and methodologies, always willing to innovate the new things which can improve the existing technology in electronics, robotics, IoT, deep learning, Volunteers, community engagement.  
 
 **Skills:** C/C++ | MATLAB | Python |  Ruby | Go | Java |  
 
 - 💼 I am currently working Developer at MATLAB
-
-- ✍️ I am currently learning Deep Learning GAN's 
 
 - 🌱  I am currently looking to collaborate on IoT, Robotics, Mechatronic, Edge AI, Computer Vision, Machine Learning and Simulation Projects
 
