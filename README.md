@@ -16,60 +16,32 @@ Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with hi
 
 ### Software Engineering
 
-🐍 Python | ☕ Java | 🖥️ C++ | 💎 Ruby | 🐧 Go
+🐍 Python  |  ☕ Java  |  🖥️ C/C++  |  💎 Ruby  |  🐧 Go  |  🌐 JavaScript  |  📊 R Studio  |  ⚛️ React  |  ⚙️ Embedded C
 
 ### Computer Vision
 
-📷 OpenCV | 🤖 TensorFlow | 🌟 PyTorch | 🖼️ Image Processing | 👁️ Object Detection
+📷 OpenCV  |  🤖 TensorFlow  |  🌟 PyTorch  |  🖼️ Image Processing  |  👁️ Object Detection
 
 ### AI/DL
 
-🧠 Neural Networks | 🤖 Deep Learning | 📖 Natural Language Processing | 🔄 Reinforcement Learning
+🧠 Neural Networks  |  🤖 Deep Learning  |  📖 Natural Language Processing  |  🔄 Reinforcement Learning
 
 ### Blockchain
 
-📄 Smart Contracts | 💰 Ethereum | 🔒 Solidity
+📄 Smart Contracts  |  💰 Ethereum  |  🔒 Solidity
 
 ### NLP
 
-📝 Text Classification | 😄 Sentiment Analysis | 🎯 Named Entity Recognition
+📝 Text Classification  |  😄 Sentiment Analysis  |  🎯 Named Entity Recognition  |  🏆 LLM  |  🤖 Bots  |  💬 ChatGPT
 
 ### Application Design
 
-🎨 UX/UI Design | 🎛️ Prototyping | 🏢 Agile Methodology
+🎨 UX/UI Design  |  🎛️ Prototyping  |  🏢 Agile Methodology
 
 ### MATLAB
 
-📊 Electronics | 📝 Algorithms | ⚡ Electrical | 🤖 Automation | 🧪 AI Simulations
+📊 Electronics  |  📝 Algorithms  |  ⚡ Electrical  |  🤖 Automation  |  🧪 AI Simulations  |  🤖 Machine Learning  |  📈 Signal Processing  |  🎮 Control System  |  📊 Data Visualization  |  📶 5G
 
-
-### Software Engineering
-
-🐍 Python | ☕ Java | 🖥️ C/C++ | 💎 Ruby | 🐧 Go | ![JavaScript](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg) | ![R Studio](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/rstudio.svg) | ![React](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg) | ![Embedded C](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/c.svg)
-
-### Computer Vision
-
-📷 OpenCV | 🤖 TensorFlow | 🌟 PyTorch | 🖼️ Image Processing | 👁️ Object Detection
-
-### AI/DL
-
-🧠 Neural Networks | 🤖 Deep Learning | 📖 Natural Language Processing | 🔄 Reinforcement Learning
-
-### Blockchain
-
-📄 Smart Contracts | 💰 Ethereum | 🔒 Solidity
-
-### NLP
-
-📝 Text Classification | 😄 Sentiment Analysis | 🎯 Named Entity Recognition | ![LLM](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trophy.svg) | ![Bots](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/robot.svg) | ![ChatGPT](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chat.svg)
-
-### Application Design
-
-🎨 UX/UI Design | 🎛️ Prototyping | 🏢 Agile Methodology
-
-### MATLAB
-
-📊 Electronics | 📝 Algorithms | ⚡ Electrical | 🤖 Automation | 🧪 AI Simulations | ![Machine learning](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/brain.svg) | ![Signal Processing](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/signal.svg) | ![Control System](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gamepad.svg) | ![Data Visualization](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chart.svg) | ![5G](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/signal1.svg)
 
 
 ## Education
