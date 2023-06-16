@@ -42,34 +42,34 @@ Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with hi
 
 📊 Electronics | 📝 Algorithms | ⚡ Electrical | 🤖 Automation | 🧪 AI Simulations
 
+
+### Software Engineering
+
+🐍 Python | ☕ Java | 🖥️ C/C++ | 💎 Ruby | 🐧 Go | ![JavaScript](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg) | ![R Studio](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/rstudio.svg) | ![React](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/react.svg) | ![Embedded C](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/c.svg)
+
+### Computer Vision
+
+📷 OpenCV | 🤖 TensorFlow | 🌟 PyTorch | 🖼️ Image Processing | 👁️ Object Detection
+
+### AI/DL
+
+🧠 Neural Networks | 🤖 Deep Learning | 📖 Natural Language Processing | 🔄 Reinforcement Learning
+
+### Blockchain
+
+📄 Smart Contracts | 💰 Ethereum | 🔒 Solidity
+
+### NLP
+
+📝 Text Classification | 😄 Sentiment Analysis | 🎯 Named Entity Recognition | ![LLM](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/trophy.svg) | ![Bots](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/robot.svg) | ![ChatGPT](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chat.svg)
+
+### Application Design
+
+🎨 UX/UI Design | 🎛️ Prototyping | 🏢 Agile Methodology
+
 ### MATLAB
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div class="skill">Machine Learning</div>
-  <div class="skill">5G Toolbox</div>
-  <div class="skill">Computer Vision Toolbox</div>
-  <div class="skill">Data Visualization</div>
-  <div class="skill">Signal Processing Toolbox</div>
-  <div class="skill">Image Processing Toolbox</div>
-  <div class="skill">Statistics and Machine Learning Toolbox</div>
-  <div class="skill">Deep Learning Toolbox</div>
-  <div class="skill">Simulink</div>
-  <div class="skill">Control System Toolbox</div>
-  <div class="skill">Optimization Toolbox</div>
-  <div class="skill">Parallel Computing Toolbox</div>
-  <div class="skill">Curve Fitting Toolbox</div>
-  <div class="skill">Symbolic Math Toolbox</div>
-  <div class="skill">Simulink Control Design</div>
-</div>
-
-<style>
-.skill {
-  background-color: #f0db4f;
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 14px;
-}
-</style>
+📊 Electronics | 📝 Algorithms | ⚡ Electrical | 🤖 Automation | 🧪 AI Simulations | ![Machine learning](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/brain.svg) | ![Signal Processing](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/signal.svg) | ![Control System](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gamepad.svg) | ![Data Visualization](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/chart.svg) | ![5G](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/signal1.svg)
 
 
 ## Education
