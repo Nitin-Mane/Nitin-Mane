@@ -1,18 +1,4 @@
 # Hey 👋, This is Nitin Mane
-### About me 🤓
-An enthusiastic, experienced engineer with highly motivated and leadership skills with a Bachelor of Technology degree in Electronics and Telecommunication Engineering and
-working on multidisciplinary steam in the research field for industrial and commercial services in the startup company. Expert in implementing each step of projects and DevOps for more than two years’ workflow. Eager to learn new technologies and methodologies, always willing to innovate the new things which can improve the existing technology in electronics, robotics, IoT, deep learning, Volunteers, community engagement.  
-
-**Skills:** C/C++ | MATLAB | Python |  Ruby | Go | Java |  
-
-- 💼 I am currently working Developer at MATLAB
-
-- 🌱  I am currently looking to collaborate on IoT, Robotics, Mechatronic, Edge AI, Computer Vision, Machine Learning and Simulation Projects
-
-<a href = https://www.linkedin.com/in/https://www.linkedin.com/in/nitin-mane-a025b162/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Nitin-Mane><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/mnitin52><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
-
-
-# Nitin Mane
 
 ### Software Engineer | Research Enthusiast | Technology Innovator
 
@@ -20,62 +6,28 @@ Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with hi
 
 ## Skills
 
-### Cloud Engineering
-- AWS
-- Azure
-- Google Cloud Platform
-- Docker
-- Kubernetes
+| Cloud Engineering    | Data Engineering      | Software Engineering | Computer Vision        |
+|----------------------|-----------------------|----------------------|------------------------|
+| AWS                  | SQL                   | Python               | OpenCV                 |
+| Azure                | Hadoop                | Java                 | TensorFlow             |
+| Google Cloud Platform| Spark                 | C++                  | PyTorch                |
+| Docker               | Apache Kafka          | Ruby                 | Image Processing       |
+| Kubernetes           | Apache Airflow        | Go                   | Object Detection       |
 
-### Data Engineering
-- SQL
-- Hadoop
-- Spark
-- Apache Kafka
-- Apache Airflow
+| AI/DL                | Blockchain            | NLP                  | Application Design     |
+|----------------------|-----------------------|----------------------|------------------------|
+| Neural Networks      | Smart Contracts       | Text Classification  | UX/UI Design           |
+| Deep Learning        | Ethereum              | Sentiment Analysis   | Prototyping            |
+| Natural Language Processing | Solidity         | Named Entity Recognition | Agile Methodology  |
 
-### Software Engineering
-- Python
-- Java
-- C++
-- Ruby
-- Go
-- JavaScript
+| MATLAB               |
+|----------------------|
+| Electronics          |
+| Algorithms           |
+| Electrical           |
+| Automation           |
+| AI Simulations       |
 
-### Computer Vision
-- OpenCV
-- TensorFlow
-- PyTorch
-- Image Processing
-- Object Detection
-
-### AI/DL
-- Neural Networks
-- Deep Learning Architectures
-- Natural Language Processing
-- Reinforcement Learning
-
-### Blockchain
-- Smart Contracts
-- Ethereum
-- Solidity
-
-### NLP
-- Text Classification
-- Sentiment Analysis
-- Named Entity Recognition
-
-### Application Design
-- UX/UI Design
-- Prototyping
-- Agile Methodology
-
-### MATLAB
-- Electronics
-- Algorithms
-- Electrical
-- Automation
-- AI Simulations
 
 ## Education
 
@@ -319,5 +271,4 @@ To stay updated with the latest advancements, I continuously learn and expand my
 
 You can reach out to me through the following channels:
 
-- LinkedIn: [![LinkedIn](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg)](https://www.linkedin.com/in/nitingmane/)
-- GitHub: [![GitHub](https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg)](https://github.com/Nitin-Mane)
+<a href = https://www.linkedin.com/in/https://www.linkedin.com/in/nitin-mane-a025b162/><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/Nitin-Mane><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a> • <a href = https://twitter.com/mnitin52><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg height='30' weight='30'></a>
