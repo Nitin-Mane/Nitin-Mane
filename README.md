@@ -6,27 +6,70 @@ Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with hi
 
 ## Skills
 
-| Cloud Engineering    | Data Engineering      | Software Engineering | Computer Vision        |
-|----------------------|-----------------------|----------------------|------------------------|
-| AWS                  | SQL                   | Python               | OpenCV                 |
-| Azure                | Hadoop                | Java                 | TensorFlow             |
-| Google Cloud Platform| Spark                 | C++                  | PyTorch                |
-| Docker               | Apache Kafka          | Ruby                 | Image Processing       |
-| Kubernetes           | Apache Airflow        | Go                   | Object Detection       |
+### Cloud Engineering
 
-| AI/DL                | Blockchain            | NLP                  | Application Design     |
-|----------------------|-----------------------|----------------------|------------------------|
-| Neural Networks      | Smart Contracts       | Text Classification  | UX/UI Design           |
-| Deep Learning        | Ethereum              | Sentiment Analysis   | Prototyping            |
-| Natural Language Processing | Solidity         | Named Entity Recognition | Agile Methodology  |
+☁️ AWS | ☁️ Azure | ☁️ Google Cloud Platform | 🐳 Docker | ☸️ Kubernetes
 
-| MATLAB               |
-|----------------------|
-| Electronics          |
-| Algorithms           |
-| Electrical           |
-| Automation           |
-| AI Simulations       |
+### Data Engineering
+
+🗄️ SQL | 🐘 Hadoop | ⚡ Spark | 📤 Apache Kafka | 🌬️ Apache Airflow
+
+### Software Engineering
+
+🐍 Python | ☕ Java | 🖥️ C++ | 💎 Ruby | 🐧 Go
+
+### Computer Vision
+
+📷 OpenCV | 🤖 TensorFlow | 🌟 PyTorch | 🖼️ Image Processing | 👁️ Object Detection
+
+### AI/DL
+
+🧠 Neural Networks | 🤖 Deep Learning | 📖 Natural Language Processing | 🔄 Reinforcement Learning
+
+### Blockchain
+
+📄 Smart Contracts | 💰 Ethereum | 🔒 Solidity
+
+### NLP
+
+📝 Text Classification | 😄 Sentiment Analysis | 🎯 Named Entity Recognition
+
+### Application Design
+
+🎨 UX/UI Design | 🎛️ Prototyping | 🏢 Agile Methodology
+
+### MATLAB
+
+📊 Electronics | 📝 Algorithms | ⚡ Electrical | 🤖 Automation | 🧪 AI Simulations
+
+### MATLAB
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div class="skill">Machine Learning</div>
+  <div class="skill">5G Toolbox</div>
+  <div class="skill">Computer Vision Toolbox</div>
+  <div class="skill">Data Visualization</div>
+  <div class="skill">Signal Processing Toolbox</div>
+  <div class="skill">Image Processing Toolbox</div>
+  <div class="skill">Statistics and Machine Learning Toolbox</div>
+  <div class="skill">Deep Learning Toolbox</div>
+  <div class="skill">Simulink</div>
+  <div class="skill">Control System Toolbox</div>
+  <div class="skill">Optimization Toolbox</div>
+  <div class="skill">Parallel Computing Toolbox</div>
+  <div class="skill">Curve Fitting Toolbox</div>
+  <div class="skill">Symbolic Math Toolbox</div>
+  <div class="skill">Simulink Control Design</div>
+</div>
+
+<style>
+.skill {
+  background-color: #f0db4f;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+</style>
 
 
 ## Education
