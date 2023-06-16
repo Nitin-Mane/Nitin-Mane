@@ -2,7 +2,9 @@
 
 ### Software Engineer | Research Enthusiast | Technology Innovator
 
-Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with highly motivated leadership skills. I hold a Bachelor of Technology degree in Electronics and Telecommunication Engineering and have been working in the multidisciplinary research field for industrial and commercial services in a startup company. I am an expert in implementing each step of projects and DevOps workflows, with a focus on innovation and improving existing technologies in electronics, robotics, IoT, deep learning, volunteerism, and community engagement.
+Greetings! 👋 I'm Nitin Mane, a seasoned and dedicated engineer with a strong track record of leadership and expertise. I possess a Bachelor of Technology degree in Electronics and Telecommunication Engineering and have made significant contributions to the research field, particularly in the realm of industrial and commercial services within a dynamic startup environment. My proficiency lies in orchestrating end-to-end project execution and implementing efficient DevOps workflows. I thrive on innovation, constantly seeking ways to enhance and revolutionize electronics, robotics, IoT, deep learning, and other cutting-edge domains. Additionally, I actively engage in volunteer work and community initiatives, demonstrating my commitment to making a positive impact.
+
+As a software engineer, I bring extensive experience in driving successful project outcomes and delivering value to clients. My comprehensive understanding of research methodologies, coupled with my technical prowess, enables me to tackle complex challenges and devise innovative solutions. With a keen eye for detail and a passion for excellence, I consistently strive to exceed expectations and achieve remarkable results. I thrive in collaborative environments, fostering effective communication and seamless coordination with cross-functional teams. By leveraging my expertise in diverse domains, I am adept at translating client requirements into practical and impactful solutions that align with their strategic objectives. With a client-centric approach and a relentless drive for excellence, I am committed to delivering optimal outcomes and contributing to the success of each project.
 
 ## Skills
 
@@ -43,29 +45,66 @@ Hey there! 👋 I'm Nitin Mane, an enthusiastic and experienced engineer with hi
 📊 Electronics  |  📝 Algorithms  |  ⚡ Electrical  |  🤖 Automation  |  🧪 AI Simulations  |  🤖 Machine Learning  |  📈 Signal Processing  |  🎮 Control System  |  📊 Data Visualization  |  📶 5G
 
 
-
 ## Education
 
 - **Google Data Analytics Professional Certificate**
-  - The Google Data Analytics Professional Certificate program is a comprehensive course that provides students with the knowledge and skills necessary to analyze and interpret complex data. Through a combination of interactive lessons and hands-on projects, students learn how to collect, clean, analyze, and visualize data using a variety of tools and techniques. The program consists of seven courses that cover a range of topics, from the basics of data analysis to more advanced techniques like machine learning and R programming. Students are evaluated through quizzes, assignments, and projects.
+  - *Google*
+  - Year: 2023
+  - Description: Comprehensive course covering data analysis, interpretation, and visualization. Hands-on projects and interactive lessons. Topics include data collection, cleaning, analysis, and visualization using various tools and techniques.
+  - Main Points:
+    - Data analysis and interpretation
+    - Data visualization using tools and techniques
+    - Hands-on projects and interactive lessons
+    - Data collection and cleaning
+    - Application of advanced techniques like machine learning and R programming
 
 - **Intel Edge AI for IoT Developers Program**
-  - Nanodegree Udacity
-  - Gained skills in computer hardware, OpenVINO, Software Development, Neural Networks, Deep Learning, the Internet of Things, machine learning pipelines, computer vision, AI, and machine learning tools and methods.
+  - *Nanodegree Udacity*
+  - Year: 2021
+  - Description: Program focusing on computer hardware, OpenVINO, software development, neural networks, deep learning, IoT, machine learning pipelines, computer vision, and AI.
+  - Main Points:
+    - Computer hardware and software development
+    - Neural networks and deep learning
+    - IoT and machine learning pipelines
+    - Computer vision and AI applications
+    - Practical skills in OpenVINO and related technologies
 
 - **Bachelor of Technology (B.Tech.)**
-  - Maharashtra Institute of Technology, Aurangabad
-  - Completed a Bachelor of Technology degree in Electronics and Telecommunication Engineering from Maharashtra Institute of Technology. 
+  - *Maharashtra Institute of Technology, Aurangabad*
+  - Year: 2020
+  - Description: Bachelor's degree in Electronics and Telecommunication Engineering, providing comprehensive knowledge and practical skills in the field.
+  - Main Points:
+    - Electronics and telecommunication engineering
+    - Comprehensive knowledge and practical skills
+    - Focus on electronics and telecommunication concepts
+    - Hands-on experience in engineering projects
+    - Strong foundation in engineering principles
 
 - **Master Course Mechatronics**
-  - Explored various aspects of Mechatronics, including conventional machine study, practical sessions in the workshop, engineering metrology, quality control, basics of electrical and electronics, CNC machine coding and simulation, embedded systems and applications, pneumatics and hydraulics, PLC programming, SCADA, electrical/electronics and mechanical maintenance, and a live Mechatronics project with FESTO Kit.
+  - *Institution Name*
+  - Year: 2013
+  - Description: Master's course covering various aspects of Mechatronics, including conventional machine study, practical workshop sessions, engineering metrology, quality control, electrical and electronics basics, CNC machine coding and simulation, embedded systems and applications, pneumatics and hydraulics, PLC programming, SCADA, electrical/electronics and mechanical maintenance, and a live Mechatronics project with FESTO Kit.
+  - Main Points:
+    - Conventional machine study and workshop sessions
+    - Knowledge of engineering metrology and quality control
+    - Understanding of electrical and electronics basics
+    - Proficiency in CNC machine coding and simulation
+    - Practical experience with embedded systems and applications
 
 - **Diploma in Electronics Production and Maintenance**
-  - Completed a Diploma in Electronics Production and Maintenance from DOEACC Centre, Aurangabad (now known as NIELIT Aurangabad). Gained knowledge and skills in electronics production, maintenance, and troubleshooting.
+  - *DOEACC Centre, Aurangabad*
+  - Year: 2012
+  - Description: Diploma program focusing on electronics production and maintenance, providing skills in troubleshooting, repair, and maintenance of electronic systems and components.
+  - Main Points:
+    - Electronics production and maintenance
+    - Troubleshooting and repair skills
+    - Maintenance of electronic systems
+    - Understanding of electronic components
+    - Practical knowledge in electronics production
 
 ## Work Experience
 
-### Software Engineer at Infinity Tech Resources
+### Software Engineer at [Infinity Tech Resources](https://www.infinitytechresource.com/)
 
 As a Software Engineer at Infinity Tech Resources, I have been responsible for designing, developing, and maintaining software solutions for our clients. My primary role involves collaborating with cross-functional teams to gather requirements, analyze user needs, and implement efficient and scalable software solutions.
 
@@ -87,7 +126,7 @@ Achievements:
 Working at Infinity Tech Resources has allowed me to enhance my technical skills, collaborate with talented professionals, and contribute to impactful software projects.
 
 
-### Developer at MATLAB Helper
+### Developer at [MATLAB Helper](https://matlabhelper.com/)
 
 As a Developer at MATLAB Helper, I have been responsible for executing various client projects and developing applications that leverage the power of MATLAB and Simulink. My role involves following established coding and documentation standards to ensure high-quality, maintainable software solutions. I actively contribute to troubleshooting, debugging, and updating current and future projects, ensuring their optimal performance.
 
@@ -104,7 +143,7 @@ Responsibilities:
 During my tenure at MATLAB Helper, I have successfully executed various client projects and contributed to the creation of engaging technical content. I have demonstrated strong proficiency in MATLAB and Simulink, while also ensuring adherence to coding standards and delivering quality results. I actively collaborate with the team to foster knowledge sharing and promote a culture of innovation and excellence.
 
 
-### Contract Web Developer and Software Engineer at Ekkata Innovator LLP
+### Contract Web Developer and Software Engineer at [Ekkata Innovator LLP](https://www.ekatta.in/)
 
 As a Contract Web Developer and Software Engineer at Ekkata Innovator LLP, I have been involved in a variety of projects focused on web and software application development. My responsibilities encompassed working with Django framework, providing faculty and student training, and serving as a Python trainer. Additionally, I offered B2B consultancy services, ensuring effective and scalable solutions for web and software applications.
 
