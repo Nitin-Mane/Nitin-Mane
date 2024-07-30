@@ -47,6 +47,16 @@ As a software engineer, I bring extensive experience in driving successful proje
 
 ## Education
 
+- **Master's of Technology (M.Tech.)**
+  - *Indian Institute of Technology, Bhilai*
+  - Year: 2024 (present)
+  - Description: Master's degree in Mechatronics Engineering.
+  - Main Points:
+    - Machine learning and Deep Learning for Computer Vision
+    - Advance Control Theory, Signal Processing
+    - Hands-on projects and interactive lessons as Teaching assistant
+    - Robotics and AI
+
 - **Google Data Analytics Professional Certificate**
   - *Google*
   - Year: 2023
