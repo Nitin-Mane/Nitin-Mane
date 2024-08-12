@@ -1,6 +1,6 @@
 # Hey 👋, This is Nitin Mane
 
-### Software Engineer | Research Enthusiast | Technology Innovator
+### Mechatronics & Senior Software Engineer | Research Enthusiast | Technology Innovator | Ambassador
 
 Greetings! 👋 I'm Nitin Mane, a seasoned and dedicated engineer with a strong track record of leadership and expertise. I possess a Bachelor of Technology degree in Electronics and Telecommunication Engineering and have made significant contributions to the research field, particularly in the realm of industrial and commercial services within a dynamic startup environment. My proficiency lies in orchestrating end-to-end project execution and implementing efficient DevOps workflows. I thrive on innovation, constantly seeking ways to enhance and revolutionize electronics, robotics, IoT, deep learning, and other cutting-edge domains. Additionally, I actively engage in volunteer work and community initiatives, demonstrating my commitment to making a positive impact.
 
