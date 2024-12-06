@@ -1,49 +1,50 @@
 # Hey 👋, This is Nitin Mane
 
-### Mechatronics & Senior Software Engineer | Research Enthusiast | Technology Innovator | Ambassador
+# M.Tech in Mechatronics @ IIT Bhilai | Former Senior Software Engineer | Researcher | Innovator | Tech Ambassador
 
-Greetings! 👋 I'm Nitin Mane, a seasoned and dedicated engineer with a strong track record of leadership and expertise. I possess a Bachelor of Technology degree in Electronics and Telecommunication Engineering and have made significant contributions to the research field, particularly in the realm of industrial and commercial services within a dynamic startup environment. My proficiency lies in orchestrating end-to-end project execution and implementing efficient DevOps workflows. I thrive on innovation, constantly seeking ways to enhance and revolutionize electronics, robotics, IoT, deep learning, and other cutting-edge domains. Additionally, I actively engage in volunteer work and community initiatives, demonstrating my commitment to making a positive impact.
+Greetings! 👋 I'm **Nitin Mane**, a passionate engineer and research enthusiast with a robust foundation in Electronics and Telecommunication Engineering. With over three years of professional experience as a Senior Software Engineer, I have honed my skills in designing, developing, and deploying cutting-edge solutions in **AI**, **robotics**, **IoT**, and **deep learning**. Currently, I am pursuing an **M.Tech in Mechatronics** at **IIT Bhilai**, further enhancing my expertise in the intersection of advanced technology and engineering.
 
-As a software engineer, I bring extensive experience in driving successful project outcomes and delivering value to clients. My comprehensive understanding of research methodologies, coupled with my technical prowess, enables me to tackle complex challenges and devise innovative solutions. With a keen eye for detail and a passion for excellence, I consistently strive to exceed expectations and achieve remarkable results. I thrive in collaborative environments, fostering effective communication and seamless coordination with cross-functional teams. By leveraging my expertise in diverse domains, I am adept at translating client requirements into practical and impactful solutions that align with their strategic objectives. With a client-centric approach and a relentless drive for excellence, I am committed to delivering optimal outcomes and contributing to the success of each project.
+As a technology innovator, I specialize in end-to-end project execution, from ideation to implementation, leveraging my knowledge of **research methodologies** and **DevOps workflows**. My dedication to solving complex challenges is matched by my drive to create impactful, client-centric solutions. Whether it’s orchestrating seamless collaborations within cross-functional teams or pioneering sustainable tech initiatives, I aim to leave a lasting impact in every endeavor.
+
+Beyond academics and professional pursuits, I am deeply committed to **community engagement** and **volunteerism**, fostering innovation through mentorship and leadership. Join me on this journey as I continue to explore, innovate, and contribute to the ever-evolving tech landscape! 🚀
 
 ## Skills
 
-### Cloud Engineering
+### Robotics and Automation
+🤖 ROS (Robot Operating System)  |  🤝 Collaborative Robots (Cobots)  |  🚁 Drone Programming  |  🛠️ Automation Frameworks  |  🤖 Robotics Simulation (Gazebo, RViz)  |  🎛️ Industrial Automation  |  🔩 Kinematics and Dynamics
 
-☁️ AWS | ☁️ Azure | ☁️ Google Cloud Platform | 🐳 Docker | ☸️ Kubernetes
+### DevOps, MLOps, and LLmOps
+☁️ AWS | ☁️ Azure | ☁️ Google Cloud Platform | 🐳 Docker | ☸️ Kubernetes | ⚙️ CI/CD Pipelines | 🛠️ Jenkins | 📦 Helm | 🔍 Model Versioning | 🔁 Workflow Orchestration | 🔄 Deployment Scaling | 📈 Performance Monitoring
+
+### Benchmarking and Optimization
+🛠️ Performance Tuning  |  ⚡ Benchmark Analysis  |  🖥️ Profiling Tools  |  📊 Latency and Throughput Optimization  |  🔎 Resource Utilization Metrics
+
+### OpenVINO and OneAPI (Intel)
+🚀 OpenVINO Toolkit  |  💻 Intel OneAPI  |  🔍 Model Optimization  |  🎥 Edge AI Deployment  |  📈 Performance Metrics for Intel Hardware  |  🛠️ Cross-architecture Development
+
+### Cloud Engineering
+☁️ AWS | ☁️ Azure | ☁️ Google Cloud Platform | 🐳 Docker | ☸️ Kubernetes | 🏗️ Terraform | 🖥️ Ansible | 🌐 Cloud Automation
 
 ### Data Engineering
-
-🗄️ SQL | 🐘 Hadoop | ⚡ Spark | 📤 Apache Kafka | 🌬️ Apache Airflow
+🗄️ SQL | 🐘 Hadoop | ⚡ Spark | 📤 Apache Kafka | 🌬️ Apache Airflow | 🏗️ Data Pipeline Optimization | 📦 Data Lake Architectures
 
 ### Software Engineering
-
-🐍 Python  |  ☕ Java  |  🖥️ C/C++  |  💎 Ruby  |  🐧 Go  |  🌐 JavaScript  |  📊 R Studio  |  ⚛️ React  |  ⚙️ Embedded C
+🐍 Python  |  ☕ Java  |  🖥️ C/C++  |  💎 Ruby  |  🐧 Go  |  🌐 JavaScript  |  📊 R Studio  |  ⚛️ React  |  ⚙️ Embedded C  |  🌟 Microcontroller Programming
 
 ### Computer Vision
-
-📷 OpenCV  |  🤖 TensorFlow  |  🌟 PyTorch  |  🖼️ Image Processing  |  👁️ Object Detection
+📷 OpenCV  |  🤖 TensorFlow  |  🌟 PyTorch  |  🖼️ Image Processing  |  👁️ Object Detection  |  🎥 Video Analytics | 📸 Multi-camera Systems
 
 ### AI/DL
+🧠 Neural Networks  |  🤖 Deep Learning  |  📖 Natural Language Processing  |  🔄 Reinforcement Learning  |  🌐 GANs  |  📊 Transfer Learning | 🔗 Graph Neural Networks
 
-🧠 Neural Networks  |  🤖 Deep Learning  |  📖 Natural Language Processing  |  🔄 Reinforcement Learning
-
-### Blockchain
-
-📄 Smart Contracts  |  💰 Ethereum  |  🔒 Solidity
-
-### NLP
-
-📝 Text Classification  |  😄 Sentiment Analysis  |  🎯 Named Entity Recognition  |  🏆 LLM  |  🤖 Bots  |  💬 ChatGPT
+### NLP and LLM
+📝 Text Classification  |  😄 Sentiment Analysis  |  🎯 Named Entity Recognition  |  🏆 Large Language Models  |  🤖 Bots  |  💬 ChatGPT  |  🔡 Tokenization | 📖 Transformer Architectures
 
 ### Application Design
-
-🎨 UX/UI Design  |  🎛️ Prototyping  |  🏢 Agile Methodology
+🎨 UX/UI Design  |  🎛️ Prototyping  |  🏢 Agile Methodology | 🔄 DevOps Integration
 
 ### MATLAB
-
 📊 Electronics  |  📝 Algorithms  |  ⚡ Electrical  |  🤖 Automation  |  🧪 AI Simulations  |  🤖 Machine Learning  |  📈 Signal Processing  |  🎮 Control System  |  📊 Data Visualization  |  📶 5G
-
 
 ## Education
 
