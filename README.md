@@ -92,7 +92,7 @@ Beyond academics and professional pursuits, I am deeply committed to **community
     - Strong foundation in engineering principles
 
 - **Master Course Mechatronics**
-  - *Institution Name*
+  - *Indo German Tool Room Aurangabad*
   - Year: 2013
   - Description: Master's course covering various aspects of Mechatronics, including conventional machine study, practical workshop sessions, engineering metrology, quality control, electrical and electronics basics, CNC machine coding and simulation, embedded systems and applications, pneumatics and hydraulics, PLC programming, SCADA, electrical/electronics and mechanical maintenance, and a live Mechatronics project with FESTO Kit.
   - Main Points:
